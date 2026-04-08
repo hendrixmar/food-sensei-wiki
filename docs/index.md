@@ -45,6 +45,6 @@ features:
 
 ## 🔗 Enlaces Rápidos
 
-- [Autores](/entities/)
-- [Conceptos Principales](/concepts/)
-- [Análisis Comparativos](/syntheses/)
+- [Autores](/entities/frank-suarez)
+- [Conceptos Principales](/concepts/metabolismo)
+- [Análisis Comparativos](/syntheses/carbohidratos-vs-grasas)
